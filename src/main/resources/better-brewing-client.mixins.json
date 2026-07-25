@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "package": "kr.junior.brewing.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HandledScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "refmap": "better-brewing-client-refmap.json"
+}

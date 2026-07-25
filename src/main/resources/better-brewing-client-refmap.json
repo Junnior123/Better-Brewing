@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "kr/junior/brewing/mixin/HandledScreenMixin": {
+      "handledScreenTick": "Lnet/minecraft/class_465;method_37432()V",
+      "mouseClicked": "Lnet/minecraft/class_465;method_25402(DDI)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "kr/junior/brewing/mixin/HandledScreenMixin": {
+        "handledScreenTick": "Lnet/minecraft/class_465;method_37432()V",
+        "mouseClicked": "Lnet/minecraft/class_465;method_25402(DDI)Z"
+      }
+    }
+  }
+}
